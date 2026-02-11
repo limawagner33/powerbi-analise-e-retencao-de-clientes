@@ -2,6 +2,14 @@
 
 ![Preview do Dashboard](dashboard.png)
 
+---
+
+# 🌍 Site Para Visualizar Dashboard Interativo
+
+[Visualize aqui](https://app.powerbi.com/view?r=eyJrIjoiNGUzYjBiZTUtMjEwNC00Nzg3LWE3ZjYtMzM4OWJkNjU3YjFjIiwidCI6ImY0MTE4N2VhLTlkNmItNDNlNy04YjNiLWU1NmFmNjQ4N2IwYSJ9)
+
+---
+
 ## 💼 Cenário de Negócio (FICTÍCIO)
 A **TechConnect Telecom** (empresa fictícia) enfrentou um desafio crítico: o aumento na taxa de cancelamento de clientes (Churn). A diretoria precisava entender *quem* estava saindo e *por que*, para que o time de marketing pudesse criar estratégias de retenção preventivas.
 
