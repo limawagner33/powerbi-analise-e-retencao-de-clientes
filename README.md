@@ -1,6 +1,6 @@
 # 📊 Análise de Churn e Retenção de Clientes | Projeto Power BI
 
-![Preview do Dashboard](dashboard.png)
+![Preview do Dashboard](dashboard2.png)
 
 ---
 
